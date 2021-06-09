@@ -1,0 +1,49 @@
+.banner{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 750px;
+    height: 500px;
+}
+
+body{
+    background-color: gold;
+}
+
+.top{
+    text-align: center;
+    background-image: url(./assets/Checker.jpg);
+}
+
+.middle{
+    background-color: black;
+    margin: 5px;
+    border-style: double;
+    border-color: deeppink;
+}
+
+.bottom{
+    height: 750px;
+    margin: 5px;
+    border-style: double;
+    border-color: deeppink;
+}
+
+.Giorno{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 750px;
+    height: 500px;
+}
+
+#one{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: deeppink;
+}
+
+#two{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: gold;
+}
